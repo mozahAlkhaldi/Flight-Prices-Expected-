@@ -1,3 +1,5 @@
+## Flight Price Expectation 
+
 The goal of this project is to predict the price of flight from deferent locations to Riyadh in January 2022. Using Selenium, 3789 rows and 12 columns 
 have been scraped from Almosafer.com for 8 different countries which represent the dataset. The 12 columns are the feature that will affect the price, 
 such as the flight duration, time of landing and arriving, wight of the baggage and day of month.
