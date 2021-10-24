@@ -1,3 +1,5 @@
+## Flight Prices Expectation
+
 The goal of this project is to predict the price of flight from deferent locations to Riyadh in first week of December 2021. Using Selenium, 3986 rows and 13 columns have been scraped from Almosafer.com for 11 different countries in Eorupe which represent the dataset. 12 columns out of 13 are the feature that will affect the price, such as the flight duration, time of Take-off and arriving, wight of the baggage and day of week.
 
 ![image (2)](https://user-images.githubusercontent.com/36573740/138605818-d9759e1b-0f4f-4b52-8a97-4eee1fc51089.png)
